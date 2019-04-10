@@ -1,0 +1,6 @@
+- Program do nauki pisania na klawiaturze. Program wczytuje bazê s³ów z pliku .txt
+Losuje powiedzmy 10 wyrazów, i ty masz je napisaæ.
+Po ka¿dej literce program sprawdza poprawnoœæ.
+Na koñcu wyœwietla liczbê b³êdów, liczbê dobrze napisanych, ogóln¹ liczbê LITER.
+Dodatkowo program oblicza czas pisania ka¿dego s³owa, i oblicza œredni¹, pokazuje najlepszy i najgorszy czas.
+W razie wpisania b³êdnie s³owa robi "bip".

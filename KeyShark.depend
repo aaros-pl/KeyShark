@@ -1,0 +1,66 @@
+# depslib dependency file v1.0
+1385316878 source:r:\!zaliczenie\KeyShark\main.cpp
+	<iostream>
+
+1453410334 source:g:\dysk google\!zaliczenie\KeyShark\main.cpp
+	"funkcje.h"
+	"resource.h"
+
+1416001606 source:g:\dysk google\!zaliczenie\KeyShark\funkcje.cpp
+	<iostream>
+	<string>
+	<cstdlib>
+	<cstdio>
+	<conio.h>
+
+1418521232 g:\dysk google\!zaliczenie\KeyShark\funkcje.h
+	"funkcje2.h"
+
+1416001389 g:\dysk google\!zaliczenie\KeyShark\funkcje.cpp
+	<iostream>
+	<string>
+	<cstdlib>
+	<cstdio>
+	<conio.h>
+
+1453406734 source:d:\dysk google\!zaliczenie\KeyShark\main.cpp
+	"funkcje.h"
+	"resource.h"
+
+1418517632 d:\dysk google\!zaliczenie\KeyShark\funkcje.h
+	"funkcje2.h"
+
+1453406003 d:\dysk google\!zaliczenie\KeyShark\funkcje2.h
+	<conio.h>
+	<cstdlib>
+	<ctime>
+	<fstream>
+	<iostream>
+	<sstream>
+	<string>
+	<time.h>
+	<windows.h>
+
+1418521936 g:\dysk google\!zaliczenie\KeyShark\funkcje2.h
+	<conio.h>
+	<cstdlib>
+	<ctime>
+	<fstream>
+	<iostream>
+	<sstream>
+	<string>
+	<time.h>
+	<windows.h>
+
+1453410396 source:g:\dysk google\!zaliczenie\KeyShark\resource.rc
+	<windows.h>
+	"resource.h"
+
+1418474487 g:\dysk google\!zaliczenie\KeyShark\resource.h
+
+1418470887 d:\dysk google\!zaliczenie\KeyShark\resource.h
+
+1453406796 source:d:\dysk google\!zaliczenie\KeyShark\resource.rc
+	<windows.h>
+	"resource.h"
+
